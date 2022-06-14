@@ -7,7 +7,7 @@ Esta primera actividad consiste en buscar un reportaje de datos que tenga visual
 
 ## Visualización de Datos de Infobae, *Medio Digital*
 
-En el siguiente enlace, pueden acceder 【https://www.infobae.com/politica/2022/04/10/el-impacto-de-la-invasion-rusa-a-ucrania-a-cuanto-ascendera-el-gasto-de-importar-energia-este-ano/】 para que puedan apreciar esta *visualización* de datos que desde mi punto de vista es bastante completa y llamativa. 
+En el siguiente enlace, pueden acceder [enlace](https://www.infobae.com/politica/2022/04/10/el-impacto-de-la-invasion-rusa-a-ucrania-a-cuanto-ascendera-el-gasto-de-importar-energia-este-ano/.) para que puedan apreciar esta *visualización* de datos que desde mi punto de vista es bastante completa y llamativa].
 
 ## *Título*: El impacto de la invasión rusa a Ucrania: a cuánto ascenderá el gasto de importar energía este año
 
@@ -28,7 +28,7 @@ La reactivación económica después de la pandemia agregó tensión al sistema 
 
 ## Visualización de Datos de Lab RTVE, *Medio Digital*
 
-En el siguiente enlace, pueden acceder a la segunda *visualización* 【https://www.infobae.com/politica/2022/04/10/el-impacto-de-la-invasion-rusa-a-ucrania-a-cuanto-ascendera-el-gasto-de-importar-energia-este-ano/】 de Lab RTVE, «El Laboratorio de Innovación Audiovisual de RTVE» un departamento perteneciente al grupo Radio Televisión Española S.A. 
+En el siguiente enlace, pueden acceder a la segunda *visualización* [enlace](https://www.infobae.com/politica/2022/04/10/el-impacto-de-la-invasion-rusa-a-ucrania-a-cuanto-ascendera-el-gasto-de-importar-energia-este-ano/.) de Lab RTVE, «El Laboratorio de Innovación Audiovisual de RTVE» un departamento perteneciente al grupo Radio Televisión Española S.A. 
 
 
 ## *Título*: Retrato de un Agresor Machista
