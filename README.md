@@ -6,18 +6,17 @@
 - [Actividad dirigida 3 - parte 2](ad3_2.md)
 - [API Covid Pandas](api-covid-pandas.md)
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Aprendizaje durante la materia
 Vivimos en una era digital, en donde cada vez más el periodismo ha quedado sumergido en la tecnología, y así mismo ha tenido que ir evolucionando y adaptándose a los diferentes cambios, desarrollando a profesionales del periodismo con todas las competencias necesarias para desenvolverse en el hábito de la profesión. Al hablar de cambios hay que hacer énfasis en la manera de contar historias a través de los datos. 
 
-Es importante precisar el protagonismo que le damos al uso de estadísticas y herramientas de visualización para crear noticias, debido a que se ha convertido en una forma novedosa y atractiva para la audiencia de internet, principalmente por las plataformas digitales de los diferentes medios de comunicación a nivel mundial. 
-
+ 
 Por otro lado, al hablar de periodismo de datos, visualización o programación literaria es necesario mencionar, que son términos bastantes desconocidos en Panamá, a diferencia de otras naciones que sí están muy avanzadas con el tema. Y, es qué Panamá no tiene muchos avances en esta área del periodismo, e inclusive dentro de los planes de estudios universitarios no forma parte. Asignaturas como periodismo digital no se dictan, y las que existen de periodismo electrónico y diseño de página web son muy deficientes, periodismo de datos mucho menos. A tal punto, que cuando el egresado sale a ejercer la profesión, se encuentra con un escenario donde no tiene conocimiento de las herramientas fundamental, de esta especialidad, ya que esta disciplina combina la automatización en el proceso de recoger y combinar los datos, con softwares más modernos y los equipo para algunos medios, son poco sofisticados, igual que para la universidad misma.
 
 
 Siendo la última asignatura del Máster de Periodismo Digital y uso de Datos, se ha podido utilizar diferentes herramientas útiles para el ejercicio del periodismo, como el construir una página web y presentar los datos de forma atractiva e interactiva.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Primera Actividad
 
 De acuerdo con las primeras instrucciones, durante la primera actividad dentro de la asignatura de Periodismo de Datos II, empezamos a conocer un poco sobre `GIT Hub`, servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. También se siguieron los pasos para obtener la Pages de Git Hub. Posteriormente se adicionó un Readme, para colocar los análisis que correspondían a una visualización de datos. 
@@ -37,3 +36,5 @@ En esta actividad fue bastante complicado, e incluso tuve dificultades para desc
 
 ## Actividad 4
 Para el final de la asignatura continuamos trabajando con Jupyter, continuamos haciendo cambios por medio de Git Bash, y dándole los cambios a nuestro repositorio. 
+
+Definitivamente que cada una de las actividades que hemos realizado, nos ayuda muchísimo a comprender la importancia de los datos en nuestra profesión. Por otro lado, de manera personal, considero que  ha sido todo un reto, quizás la asignatura que requiere de mayor esfuerzo y dedicación, precisamente por qué no he tenido mucha experiencia en visualización de fatos, lenguaje de programación y todo lo que incluye en este amplio mundo del periodismo de datos.  Sin embargo, poco a poco con dedicación hemos logrado llegar al final de éste recorrido, como siempre agradeciendo a esta gran Universidad por la gran oportunidad de formar parte de los participantes de este Máster en Periodismo Digital y uso de datos. Estoy completamente seguro que  nosva  a ser de mucha utilidad todo lo aprendido y facilitado por el profesor.  Por otro lado, también, en efecto es importante continuar.
